@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityananda2005&label=Profile%20views&color=0e75b6&style=flat" alt="nityananda2005" /> </p>
 
-- 🔭 I’m currently working on **<mark>Fullstack Chat application ...</mark>**
+- 🔭 I’m currently working on **<mark>New project application using React and Node.js....</mark>**
 
 - 🌱 I’m currently learning **<b>React JS, & Node JS</b>**
 
