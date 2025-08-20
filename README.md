@@ -11,7 +11,10 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nityananda-dalei-/](https://www.linkedin.com/in/nityananda-dalei-/) /n OR /n [https://nityananda2005.github.io/Portfolio/](https://nityananda2005.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at <br>
+[https://www.linkedin.com/in/nityananda-dalei-/](https://www.linkedin.com/in/nityananda-dalei-/)
+                        <br>
+[https://nityananda2005.github.io/Portfolio/](https://nityananda2005.github.io/Portfolio/)
 
 - 📫 How to reach me **nityanandadalei2005@gmail.com**
 
